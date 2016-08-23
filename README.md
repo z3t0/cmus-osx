@@ -63,6 +63,8 @@ in order to use `cmus-osx` you need:
 ```bash
 $> pip install -U pyobjc
 ```
+
+Note: Xcode is needed to install pyobjc **Xcode Command Line Tools will not work**
 more info on [installing `pyobjc`](http://pythonhosted.org/pyobjc/install.html)
 
 - *optionally* [`tinytag`](https://github.com/devsnd/tinytag) (v1.6+) for
